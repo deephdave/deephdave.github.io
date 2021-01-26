@@ -26,6 +26,18 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: deephdave
 github_username:  deephdave
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: https://deephdave.com/assets/img/Deep.png
+
+
+twitter:
+  username: deephdave
+  card: summary_large_image
+
+
 markdown: kramdown
 theme: minima
 plugins:
