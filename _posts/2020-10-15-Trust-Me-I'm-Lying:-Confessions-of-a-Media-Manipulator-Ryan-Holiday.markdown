@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Trust Me I'm Lying: Confessions of a Media Manipulator Ryan Holiday"
+title:  "Trust Me I'm Lying: Confessions of a Media Manipulator - Ryan Holiday"
 tags: booksummaries
 categories: booksummaries
 ---
