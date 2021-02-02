@@ -6,7 +6,7 @@ categories: booksummaries
 ---
 + This is difference between 'aetiology' (the study of causation) and teleology (the study of purpose of a given phenomenon, rather than its cause). As long as we stay in aetiology, we will not take a single step forward.
 
-+ Adler, in denial of trauma argument, states the following: ' No experience is in itself a cause of our success or failure. We do not suffer from shock of our experiences—the so+called trauma—but instead we make out of them whatever suits our purposes. We are not determined by our experiences, but the meaning we give them is self+determining.
++ Adler, in denial of trauma argument, states the following: ' No experience is in itself a cause of our success or failure. We do not suffer from shock of our experiences—the so called trauma—but instead we make out of them whatever suits our purposes. We are not determined by our experiences, but the meaning we give them is self determining.
 
 + The important thing is that nothing is actually determined by those influences(bad past experiences). We determine our own lives according to the meaning we give to those past experiences. Your life is something that someone gives you, but something you choose yourself, and you are one who decides how to live.
 
