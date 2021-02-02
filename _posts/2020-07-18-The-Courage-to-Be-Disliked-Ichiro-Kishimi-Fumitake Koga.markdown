@@ -16,7 +16,7 @@ categories: booksummaries
 
 + 'Freedom is being disliked by other person'. It's that you are disliked by someone. It is proof that you are exercising your freedom and living in freedom, and a sign that you are living in accordance with your own principles.
 
-+ 'Not wanting to be disliked' is probably my task, but whether or not so+and+so dislike me is the other person's task. Even if there is a person who doesn't think well of me.
++ 'Not wanting to be disliked' is probably my task, but whether or not so and so dislike me is the other person's task. Even if there is a person who doesn't think well of me.
 
 + When one person praises another, the goal is 'to manipulate someone who has less ability than you.' It's not done out of gratitude or respect.
 
