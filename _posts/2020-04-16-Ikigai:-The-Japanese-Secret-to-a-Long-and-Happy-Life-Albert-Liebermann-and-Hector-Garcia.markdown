@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ikigai: The Japanese Secret to a Long and Happy Life - Albert Liebermann, Hector  Garcia"
+title:  "Ikigai: The Japanese Secret to a Long and Happy Life - Albert Liebermann, Hector Garcia"
 tags: booksummaries
 categories: booksummaries
 ---
