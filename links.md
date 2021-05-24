@@ -18,15 +18,23 @@ You can follow me on [Readup](https://readup.com/@deephdave)
 
 - [Keeping Up With India](https://www.kuwi.news/)
 
+- [Random Internet](https://ankitkr0.in/)
+
 - [Filter Coffee](https://filtercoffee.substack.com/)
 
-- [The Big Revolution](https://www.getrevue.co/profile/bigrevolution)
+- [Tech Revolution](https://www.getrevue.co/profile/techrevolution)
+
+- [Axios Login](https://www.axios.com/newsletters/axios-login)
 
 - [Finshots](https://finshots.in/)
 
 - [The Skip](theskip@substack.com)
 
+- [Dense Discovery](https://www.densediscovery.com/)
+
 - [The Browser](https://thebrowser.substack.com/)
+
+- [Web Curios](https://webcurios.co.uk/)
 
 - [Simplanations](https://www.simplanations.in/)
 
@@ -42,13 +50,13 @@ You can follow me on [Readup](https://readup.com/@deephdave)
 
 - [Karthi's Blog](https://karthis.blog/)
 
-- [Study Hacks Blog](https://www.calnewport.com/blog/)
+- [Bookbear Express by Ava](https://ava.substack.com/)
 
-- [The Damn Optimist](https://damnoptimist.substack.com/)
+- [Perspectives by Deb Liu](https://debliu.substack.com/)
 
-- [Future-ready with FutureX](https://futurex.substack.com/)
+- [Staling Signs](https://stealingsigns.substack.com/)
 
-- [Future of Work](https://zoomout.substack.com/)
+- [Study Hacks Blog by Cal Newport](https://www.calnewport.com/blog/)
 
 - [Rebooting](https://rebooting.substack.com/)
 
@@ -62,7 +70,17 @@ You can follow me on [Readup](https://readup.com/@deephdave)
 
 - [Naval](https://nav.al/)
 
+- [LeVar Burton Reads](https://www.levarburtonpodcast.com/)
+
+- [Likhtey Raho](https://likhteyraho.com/)
+
+- [How I Built This with Guy Raz](https://www.npr.org/podcasts/510313/how-i-built-this)
+
+- [Building Experian](https://anchor.fm/teamxperian/)
+
 - [Hidden Brain](https://www.npr.org/series/423302056/hidden-brain)
+
+- [The a16z Podcast](https://www.stitcher.com/show/a16z-podcast)
 
 - [The Kevin Rose Show](https://www.kevinrose.com/)
 
