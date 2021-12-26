@@ -5,7 +5,7 @@ date:   2021-12-25 18:43:31 +0530
 #categories: jekyll update
 ---
 
-## **Career, Startup & Biography**
+### **Career, Startup & Biography**
 
 - [Catalyst: The ultimate strategies on how to win at work and in life - Chandramouli Venkatesan](https://www.goodreads.com/book/show/38587103-catalyst)
 
@@ -17,7 +17,7 @@ date:   2021-12-25 18:43:31 +0530
 
 - [Faster than Lightning: My Autobiography - Usain Bolt](https://www.goodreads.com/book/show/18906266-faster-than-lightning)
 
-## **Data, Cloud & Cryptocurrency**
+### **Data, Cloud & Cryptocurrency**
 
 - [Designing Data-Intensive Applications]([https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications)
 
@@ -29,7 +29,7 @@ date:   2021-12-25 18:43:31 +0530
 
 - [The Internet of Money Volume 1,2,3 - Andreas M. Antonopoulos](https://www.goodreads.com/book/show/31869077-the-internet-of-money)
 
-## **Life, Living & Mindset**
+### **Life, Living & Mindset**
 
 - [I Hate Running and You Can Too: How to Get Started, Keep Going, and Make Sense of an Irrational Passion  - Brendan Leonard](https://www.goodreads.com/book/show/54110572-i-hate-running-and-you-can-too)
 
@@ -55,7 +55,7 @@ date:   2021-12-25 18:43:31 +0530
 
 - [The Comfort Book - Matt Haig](https://www.goodreads.com/book/show/55825273-the-comfort-book)
 
-## **Personal Finance**
+### **Personal Finance**
 
 - [Let's Talk Money - Monika Halan](https://www.goodreads.com/book/show/40499078-let-s-talk-money)
 
@@ -63,7 +63,7 @@ date:   2021-12-25 18:43:31 +0530
 
 - [Your Money or Your Life - Vicki Robin, Joe Dominguez](https://www.goodreads.com/book/show/78428.Your_Money_or_Your_Life)
 
-## **Non-Fiction**
+### **Non-Fiction**
 
 - [Sapiens: A Brief History of Humankind - Yuval Noah Harari](https://www.goodreads.com/book/show/23692271-sapiens)
 
@@ -77,7 +77,7 @@ date:   2021-12-25 18:43:31 +0530
 
 - [The Shallows: What the Internet Is Doing to Our Brains - Nicholas Carr](https://www.goodreads.com/book/show/9778945-the-shallows)
 
-## **Fiction**
+### **Fiction**
 
 - [The Forty Rules of Love - Elif Shafak](https://www.goodreads.com/book/show/25701206-the-forty-rules-of-love)
 
